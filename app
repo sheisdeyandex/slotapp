@@ -1,5 +1,5 @@
 {
 "seven":"https://google.com",
-"clock":"https://mobiletmaateam.site/mRCJdYmL",
+"clock":"https://onlinegamesslot.me/wNC6pjNc",
 "ukap":"ru,us"
 }
